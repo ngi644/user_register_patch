@@ -1,0 +1,22 @@
+syntax:regexp
+^bower_components/
+^node_modules/
+
+syntax: glob
+*~
+*.pyc
+*.pyo
+dist/*
+build/*
+*.egg-info/*
+.semantic.cache
+.DS_Store
+TAGS
+.svn
+.hg
+.hgsvn
+.as2proj
+.as3proj
+Thumbs.db
+_build
+.idea
