@@ -20,7 +20,7 @@ In `lms.env.json` and `cms.env.json`  file:
  to the root node.
 
 
-`"WHITE_LIST_DOMAIN": ["safedomain.com", "safe2.example.com"]`
+`"WHITE_LIST_DOMAIN": ["your.safe-domain.jp", "your.safe_domain.com"]`
 
  to the list of `FEATURES`.
 
